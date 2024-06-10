@@ -35,7 +35,7 @@ or
 
 
 
-How to use
+How to us1
 ----------
 
 .. code:: Python
